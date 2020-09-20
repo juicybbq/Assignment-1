@@ -49,7 +49,10 @@ If this project is successful, it will bring something new to the gaming world. 
 
 ### References
 [1]"Best Video Games of All Time", Metacritic, 2020. [Online]. Available: https://www.metacritic.com/browse/games/score/metascore/all/all/filtered. [Accessed: 19- Sep- 2020].
+
 [2]"The Big Five Personality Test", Truity, 2020. [Online]. Available: https://www.truity.com/test/big-five-personality-test. [Accessed: 19- Sep- 2020].
+
 [3]"What's Your Learning Style? 20 Questions", Educationplanner.org, 2020. [Online]. Available: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml. [Accessed: 19- Sep- 2020].
+
 [4]"Free personality test | 16Personalities", 16Personalities, 2020. [Online]. Available: https://www.16personalities.com/free-personality-test. [Accessed: 19- Sep- 2020].
 
