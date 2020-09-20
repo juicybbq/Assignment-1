@@ -4,19 +4,19 @@
 
 My name is Emre Arslan. My student number is 3871392 and my e-mail address is: S3871392@student.rmit.edu.au. I was born in Australia, in Clayton to be precise. When I turned 2 years old, my family and I moved overseas to Turkey. The reason we moved to Turkey is due to my parents both being Turkish. We lived in Izmir for around 6 years and then returned to Australia. Due to my background, I can speak, read, and write fluent English and Turkish. The highest level of education I have completed is Year 12 VCE. A fun little fact about me is that I can make my pinkie look dislocated.
 
-<h1 style="color:#0000ff;">Interest in IT
+<h1 style="color:#00ffff;">Interest in IT</h1>
 
 <img src="PlayStation.jpg" width=414px height=190px>
 
 My interest in IT started when I was around 10 years old. It all began when my father’s friend who worked in IT brought a computer over to our house for us to use. He and my father set it up and played a bit of Prince of Persia: The Sands of Time and Max Payne. I had a PlayStation at the time, so I was aware that video games existed. However, I always thought that computers were used for business purposes only. Over the years my interest in computers and IT in general grew more. I learnt how to build my own computer, trouble-shoot issues, and use a computer efficiently. I chose to come to RMIT to start my IT journey. With RMIT being a strong contender in IT courses, I decided it would be the best option for me. At RMIT, I expect to become efficient in creating code and creating software. I want to be able to write programs to benefit myself and others.
 
-<h1 style="color:#0000ff;">Ideal Job
+<h1 style="color:#00ff00;">Ideal Job</h1>
 
 <img src="GameDeveloper.jpg" width=400px height=266px>
 
 Ideally, I would like to be a game developer. I honestly expect this to change as I continue my studies in IT but as it stands it is what I am aiming or. I have grown up around video games ever since I was 6 years old. From my first Sega console, to a PlayStation, then an Xbox, and lastly my own personal computer. Video games provide me with relaxation, joy, and a little bit of addiction. Video games can express many emotions, ideas, philosophies, and art. I believe there are endless possibilities when it comes to what you can do with a video game, and I want to create something that will stand out. Here is an advertisement on Seek.com.au about being a game developer: Game Developer Job Advertisement. The position itself entails writing code to introduce new technologies in the game engines that are used. The aspect of creating something to be used by future game studios appeals quite a lot to me. However this job would not be ideal for someone who has just finished their studies, as they require minimum of 3 years demonstrated experience in Unity & Unreal Engine 4, experience in a AAA game studio which you have worked on a published game, C++, C#, JavaScript knowledge, CPU optimization for multi-threaded programming, and specific game engine knowledge for shaders. Since their projects also need to be ported to iOS, Android, Xbox One, and PS4, they require the ideal candidate to possess knowledge and experience in deploying and testing on these platforms. They mention Lumberyard and CryEngine as game engines, also SideFX: Houdini which is a 3D procedural software to create models, animations and render. Currently, I do not possess any knowledge regarding any of these requirements. I am currently learning about programming using JavaScript, however the knowledge this company requires is far greater and in-depth. Once I have finished this course and completed my Bachelor of IT, I expect to have enough knowledge about C++, C# and JavaScript. The next step would be to learn about Unity and Unreal Engine 4. There are numerous publicly available tutorials online on how to use this software. Once I am proficient in these, then I would need to investigate how to develop games for mobile platforms, as it would be different than just developing games for gaming consoles or computers.
 
-<h1 style="color:#0000ff;">Personal Profile
+<h1 style="color:#0000ff;">Personal Profile</h1>
 
 The Myers-Briggs test showed my personality type as Advocate INFJ-A. The learning style test advised me that I was a ‘Tactile learner’. The Big Five Personality test advised that I am highly agreeable and open. These results seem to fit one another. I am passionate and empathetic; I also have vivid imagination. I value my principles and integrity. Above all this, I have the willpower to turn my dreams and ideals into plans and execute them. When it comes to learning, I need to do things myself. I am a hands-on type of learner. I like taking things apart and putting things together. I like to tinker when I am bored. 
 
@@ -24,7 +24,7 @@ When it comes to teamwork I work well with people, but I am very systematic. In 
 
 When forming a team, I need to be aware that not everyone thinks and learns the way that I do. I understand that I will need to be patient and accepting of criticism. Since I like to form plans, I will have to be open to ideas and perhaps even conflict. This can be resolved by exchanging ideas in a respectable manner.
 
-<h1 style="color:#0000ff;">Project Idea
+<h1 style="color:#0000ff;">Project Idea</h1>
 
 For my project idea, I have had this thought for quite a while. I enjoy playing video games, since I was a child. I also enjoy openness and creativity. I want to create an action-adventure video game set in an open-world environment and able to be played from both a first-person and third-person perspective. The player will control a protagonist in a modern-day city. The protagonist will inherit supernatural powers, but this depends on the choices the player initially makes. I want to design it as such that players will be able to explore their creativity and unleash their imagination.
 
