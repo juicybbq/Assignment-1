@@ -1,4 +1,4 @@
-## About Me
+<h1 style="background-color:DodgerBlue;">About Me</h1>
 
 <img src="PictureOfMe.jpg" width=125px height=250px>
 
