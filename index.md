@@ -57,5 +57,3 @@ If this project is successful, it will bring something new to the gaming world. 
 [3]"What's Your Learning Style? 20 Questions", Educationplanner.org, 2020. [Online]. Available: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml. [Accessed: 19- Sep- 2020].
 
 [4]"Free personality test | 16Personalities", 16Personalities, 2020. [Online]. Available: https://www.16personalities.com/free-personality-test. [Accessed: 19- Sep- 2020].
-
--
