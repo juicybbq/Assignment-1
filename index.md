@@ -2,7 +2,9 @@
 
 <img src="PictureOfMe.jpg" width=125px height=250px>
 
-My name is Emre Arslan. My student number is 3871392 and my e-mail address is: S3871392@student.rmit.edu.au. I was born in Australia, in Clayton to be precise. When I turned 2 years old, my family and I moved overseas to Turkey. The reason we moved to Turkey is due to my parents both being Turkish. We lived in Izmir for around 6 years and then returned to Australia. Due to my background, I can speak, read, and write fluent English and Turkish. The highest level of education I have completed is Year 12 VCE. A fun little fact about me is that I can make my pinkie look dislocated.
+My name is Emre Arslan. My student number is 3871392 and my e-mail address is: S3871392@student.rmit.edu.au. I was born in Australia, in Clayton to be precise. When I turned 2 years old, my family and I moved overseas to Turkey. The reason we moved to Turkey is due to my parents both being Turkish. We lived in Izmir for around 6 years and then returned to Australia. Due to my background, I can speak, read, and write fluent English and Turkish. The highest level of education I have completed is Year 12 VCE. A fun little fact about me is that I taught in China as an English Teacher about 2 years ago, and met my fiancée who traveled from Melbourne as well for the same purpose. We somehow ended up in the same city, with the same employer, with the same job. 
+
+<img src="PictureOfUs.jpg" width=125px height=250px>
 
 <h1 style="color:#00ffff;">Interest in IT</h1>
 
@@ -55,4 +57,3 @@ If this project is successful, it will bring something new to the gaming world. 
 [3]"What's Your Learning Style? 20 Questions", Educationplanner.org, 2020. [Online]. Available: http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml. [Accessed: 19- Sep- 2020].
 
 [4]"Free personality test | 16Personalities", 16Personalities, 2020. [Online]. Available: https://www.16personalities.com/free-personality-test. [Accessed: 19- Sep- 2020].
-
