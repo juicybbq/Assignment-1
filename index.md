@@ -1,6 +1,6 @@
 # This is Me
 
-<img src="PictureOfMe.jpg" width=250px height=500>
+<img src="PictureOfMe.jpg" width=125px height=250px>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
